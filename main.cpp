@@ -123,13 +123,5 @@ int main() {
         }
     }
 
-    // TO-DO LIST
-
-    // Option to edit line from displayed transactions
-
-    // Option to change currency
-
-    // Detect which OS is in use and deal with the folder creation accordingly
-
     return 0;
 }
